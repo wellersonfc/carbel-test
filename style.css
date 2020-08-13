@@ -1,0 +1,131 @@
+h1{
+    text-align: left;
+    font-family: revert;
+    font-size: 36px;
+    font-style: italic;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+h2{
+    font-size: 1.5rem
+}
+.central{
+    font-size: 20px;
+    letter-spacing: -0.7px;
+    color: #727B7A;
+    opacity: 1;
+}
+.sub-text{
+    text-align: left;
+    font: FoundryMonoline-Regular;
+    font-size: 24px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.phone{
+    font-size: 30px;
+    letter-spacing: 0px;
+    color: #DF0209;
+    opacity: 1;
+}
+/*.sub-text{
+    text-align: left;
+    font: Regular 18px/24px FoundryMonoline-Regular ☞;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}*/
+#nav-static{
+    background-color: #eee;
+    color:#707070;
+    font: Medium 12px/16px FoundryMonoline ☞;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+#banner{
+    background-image: url("img/5f32d094ed1d7531505783.jpg");
+    height: 50em;
+    background-position: top center;
+    padding: 0;
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat, repeat;
+}
+#Banner2{
+    background-image: url("img/Honda-Fit-2021-15.png");
+    height: 30em;
+    background-position: 0px 100%;
+    padding: 0;
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat, repeat;
+    color: #eee !important;
+}
+.conheca{
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    font-size: 1.3rem;
+    padding: 1px;
+}
+.card-desta {
+    width: 340px;
+    height: 440px;
+    position: fixed;
+    top: 50%;
+    right: 45px;
+    padding: 30px;
+    background-color: #EEEEEE;
+    box-shadow:  0 0 1em #00000029;
+}
+.btn-agendar{
+    background-color: #1CB72A;
+    color: white;
+    border-radius: 4px;
+    opacity: 1;
+    padding-top: 5px;
+    height: 70px;
+}
+.phone-det{
+    font-size: 80px;
+    color:#C5C5C5;
+}
+.input-icons i { 
+    position: absolute; 
+} 
+  
+.input-icons { 
+    width: 100%; 
+    margin-bottom: 10px; 
+} 
+  
+.icon { 
+    padding: 10px; 
+    min-width: 40px; 
+} 
+  
+.input-field { 
+    width: 100%; 
+    padding: 10px; 
+    text-align: center; 
+    height: 38px;
+} 
+input{
+        border-radius: 4px;
+    border-color: #97a7a5;
+    /* border-width: 1px; */
+    background-color: #eeeeee;
+    border: 1px solid rgba(0,0,0,.125);
+}
+.icons-forms{
+    font-size: 22px;
+    padding: 10px;
+    color: #C5C5C5;
+}
+#Banner2-text{
+    height: 100%;
+}
